@@ -1,0 +1,6 @@
+350 flour
+20 sugar
+1 salt
+200 butter
+1000 apples
+2 eggs
